@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.2.0](https://github.com/google/adk-js/compare/adk-v1.1.0...adk-v1.2.0) (2026-04-29)
+
+
+### Features
+
+* add VertexRagRetrievalTool for Vertex AI RAG Engine grounding ([#277](https://github.com/google/adk-js/issues/277)) ([14f5f17](https://github.com/google/adk-js/commit/14f5f17c1572c156574b4e0deafdae932d305d63))
+
+
+### Bug Fixes
+
+* apply toolFilter in MCPToolset.getTools() ([#312](https://github.com/google/adk-js/issues/312)) ([#313](https://github.com/google/adk-js/issues/313)) ([3cdc1fb](https://github.com/google/adk-js/commit/3cdc1fbd043a1eef6faf6b2f754eb18d4176ba7b))
+* StreamingResponseAggregator.close() drops final event when last chunk has no candidates ([#289](https://github.com/google/adk-js/issues/289)) ([#311](https://github.com/google/adk-js/issues/311)) ([30ba5c8](https://github.com/google/adk-js/commit/30ba5c866229cca2fa69fb292f571e63c501e4c8))
+
 ## [1.1.0](https://github.com/google/adk-js/compare/adk-v1.0.0...adk-v1.1.0) (2026-04-28)
 
 

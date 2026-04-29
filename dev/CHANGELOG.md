@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.2.0](https://github.com/google/adk-js/compare/devtools-v1.1.0...devtools-v1.2.0) (2026-04-29)
+
+
+### Bug Fixes
+
+* replace unix cp with node.js fs.cp in dev/build.js for windows compatibility ([#318](https://github.com/google/adk-js/issues/318)) ([53ee7eb](https://github.com/google/adk-js/commit/53ee7eb0f301b8bf617afb4cf7b0e9b1d7f8c9a9))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @google/adk bumped from ^1.1.0 to ^1.2.0
+
 ## [1.1.0](https://github.com/google/adk-js/compare/devtools-v1.0.0...devtools-v1.1.0) (2026-04-28)
 
 
